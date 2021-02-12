@@ -16,22 +16,31 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def setup(request):
     browser_name = request.config.getoption("--browser_name")
+
     if browser_name == "chrome":
         chrome_options = webdriver.ChromeOptions()
         driver = webdriver.Chrome(
             executable_path="/Users/teoliver/Documents/Web_Projects_Docs/Selenium_Drivers/chromedriver",
             options=chrome_options)
-        action = ActionChains(driver)
-
 
     elif browser_name == "firefox":
         # firefox invocation (Gecko Driver)
-        pass
+        firefox_options = webdriver.FirefoxOptions()
+        driver = webdriver.Firefox(
+            executable_path="/Users/teoliver/Documents/Web_Projects_Docs/Selenium_Drivers/geckodriver",
+            options=firefox_options)
 
     elif browser_name == "safari":
         # safati invocation
         pass
 
+    else:
+        chrome_options = webdriver.ChromeOptions()
+        driver = webdriver.Chrome(
+            executable_path="/Users/teoliver/Documents/Web_Projects_Docs/Selenium_Drivers/chromedriver",
+            options=chrome_options)
+
+    action = ActionChains(driver)
     driver.implicitly_wait(5)
     driver.maximize_window()
     request.cls.driver = driver

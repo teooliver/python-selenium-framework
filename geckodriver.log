@@ -1,0 +1,659 @@
+1613161901232	geckodriver	INFO	Listening on 127.0.0.1:50080
+1613161901889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilekpUoEP"
+1613161902255	geckodriver	INFO	Listening on 127.0.0.1:50099
+1613161903264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilefTO9qq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613161911539	Marionette	INFO	Listening on port 50096
+1613161911557	Marionette	INFO	Listening on port 50115
+1613161911672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613161911687	Marionette	ERROR	[19] No reply from Marionette:Register
+1613161914397	Marionette	INFO	Stopped listening on port 50115
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613161914991	geckodriver	INFO	Listening on 127.0.0.1:50348
+1613161916006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofile6cHtsV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613161918128	Marionette	INFO	Listening on port 50363
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613161918197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613161918208	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+1613161922235	Marionette	INFO	Stopped listening on port 50363
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613161922866	geckodriver	INFO	Listening on 127.0.0.1:50479
+1613161923876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileiC64gz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613161926000	Marionette	INFO	Listening on port 50494
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613161926090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613161926110	Marionette	ERROR	[19] No reply from Marionette:Register
+1613161933216	Marionette	INFO	Stopped listening on port 50494
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162240928	geckodriver	INFO	Listening on 127.0.0.1:51855
+1613162240939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileSa2Asf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162242946	Marionette	INFO	Listening on port 51864
+1613162243026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162243037	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162255054	Marionette	INFO	Stopped listening on port 51864
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162255557	geckodriver	INFO	Listening on 127.0.0.1:52003
+1613162256575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilenQyH4b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162258713	Marionette	INFO	Listening on port 52018
+1613162258751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162258762	Marionette	ERROR	[19] No reply from Marionette:Register
+1613162261382	Marionette	INFO	Stopped listening on port 52018
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162261876	geckodriver	INFO	Listening on 127.0.0.1:52124
+1613162262889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilewsr8ly"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162264819	Marionette	INFO	Listening on port 52139
+1613162264860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162264869	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613162272168	Marionette	INFO	Stopped listening on port 52139
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162272748	geckodriver	INFO	Listening on 127.0.0.1:52262
+1613162273759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilehk8JKD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162275702	Marionette	INFO	Listening on port 52277
+1613162275738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162275747	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162282864	Marionette	INFO	Stopped listening on port 52277
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162401214	geckodriver	INFO	Listening on 127.0.0.1:52696
+1613162401224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileVp3Tyt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162403319	Marionette	INFO	Listening on port 52705
+1613162403387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162403397	Marionette	ERROR	[19] No reply from Marionette:Register
+1613162414352	Marionette	INFO	Stopped listening on port 52705
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162414860	geckodriver	INFO	Listening on 127.0.0.1:52790
+1613162415873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilea37Td3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162417822	Marionette	INFO	Listening on port 52801
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162417942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162417952	Marionette	ERROR	[19] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1613162420732	Marionette	INFO	Stopped listening on port 52801
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162421239	geckodriver	INFO	Listening on 127.0.0.1:52890
+1613162422254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofiledJX7mB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162424188	Marionette	INFO	Listening on port 52901
+1613162424224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162424234	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613162428713	Marionette	INFO	Stopped listening on port 52901
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613162429410	geckodriver	INFO	Listening on 127.0.0.1:52987
+1613162430425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileZ5l0ur"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162432372	Marionette	INFO	Listening on port 52998
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613162432504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613162432515	Marionette	ERROR	[19] No reply from Marionette:Register
+1613162439285	Marionette	INFO	Stopped listening on port 52998
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163023077	Marionette	INFO	Stopped listening on port 50096
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163468630	geckodriver	INFO	Listening on 127.0.0.1:54264
+1613163468662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilefaAelC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163474556	Marionette	INFO	Listening on port 54273
+1613163474671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163474695	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163487375	Marionette	INFO	Stopped listening on port 54273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163488010	geckodriver	INFO	Listening on 127.0.0.1:54394
+1613163489020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilezKjgVf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163491608	Marionette	INFO	Listening on port 54405
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163491753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163491782	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163497732	Marionette	INFO	Stopped listening on port 54405
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163498621	geckodriver	INFO	Listening on 127.0.0.1:54491
+1613163499637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileB7cabW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163502975	Marionette	INFO	Listening on port 54502
+1613163503078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163503095	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613163510121	Marionette	INFO	Stopped listening on port 54502
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163511602	geckodriver	INFO	Listening on 127.0.0.1:54603
+1613163512623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileVonF2q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163517063	Marionette	INFO	Listening on port 54615
+1613163517171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163517187	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163524779	Marionette	INFO	Stopped listening on port 54615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163755377	geckodriver	INFO	Listening on 127.0.0.1:54759
+1613163755388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofile2PPAB7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163757448	Marionette	INFO	Listening on port 54769
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163757569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163757580	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163768906	Marionette	INFO	Stopped listening on port 54769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163769432	geckodriver	INFO	Listening on 127.0.0.1:54857
+1613163770446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilexzy1eN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163772541	Marionette	INFO	Listening on port 54871
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163772630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163772640	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163775856	Marionette	INFO	Stopped listening on port 54871
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163776361	geckodriver	INFO	Listening on 127.0.0.1:54952
+1613163777376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileQopEmD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163779468	Marionette	INFO	Listening on port 54963
+1613163779550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163779561	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+1613163807006	Marionette	INFO	Stopped listening on port 54963
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163807662	geckodriver	INFO	Listening on 127.0.0.1:55052
+1613163808674	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileHhYNSC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163810912	Marionette	INFO	Listening on port 55063
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163810978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163810990	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163818090	Marionette	INFO	Stopped listening on port 55063
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163863204	geckodriver	INFO	Listening on 127.0.0.1:55145
+1613163863215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileADsqaW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163865324	Marionette	INFO	Listening on port 55154
+1613163865414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163865423	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163877773	Marionette	INFO	Stopped listening on port 55154
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163878285	geckodriver	INFO	Listening on 127.0.0.1:55237
+1613163879294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileecvUeP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163881405	Marionette	INFO	Listening on port 55249
+1613163881484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163881494	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163882844	Marionette	INFO	Stopped listening on port 55249
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163883351	geckodriver	INFO	Listening on 127.0.0.1:55316
+1613163884358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileInT0UO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163886374	Marionette	INFO	Listening on port 55327
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163886460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163886470	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1613163943899	Marionette	INFO	Stopped listening on port 55327
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613163944442	geckodriver	INFO	Listening on 127.0.0.1:55427
+1613163945455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofile7owdHp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613163947602	Marionette	INFO	Listening on port 55438
+1613163947641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613163947651	Marionette	ERROR	[19] No reply from Marionette:Register
+1613163956377	Marionette	INFO	Stopped listening on port 55438
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613164000563	geckodriver	INFO	Listening on 127.0.0.1:55524
+1613164000574	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofile8sQJ05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164002728	Marionette	INFO	Listening on port 55533
+1613164002758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613164002771	Marionette	ERROR	[19] No reply from Marionette:Register
+1613164014705	Marionette	INFO	Stopped listening on port 55533
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613164015220	geckodriver	INFO	Listening on 127.0.0.1:55618
+1613164016233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileIAyVvL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164018325	Marionette	INFO	Listening on port 55629
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164018423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613164018432	Marionette	ERROR	[19] No reply from Marionette:Register
+1613164020051	Marionette	INFO	Stopped listening on port 55629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613164020555	geckodriver	INFO	Listening on 127.0.0.1:55694
+1613164021566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileFz5AtA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164023597	Marionette	INFO	Listening on port 55705
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164023643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613164023653	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+1613164058718	Marionette	INFO	Stopped listening on port 55705
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613164059270	geckodriver	INFO	Listening on 127.0.0.1:55799
+1613164060284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileSNaZwz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164062402	Marionette	INFO	Listening on port 55810
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613164062475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613164062484	Marionette	ERROR	[19] No reply from Marionette:Register
+1613164070592	Marionette	INFO	Stopped listening on port 55810
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165491235	geckodriver	INFO	Listening on 127.0.0.1:56532
+1613165491246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileS808NO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165494095	Marionette	INFO	Listening on port 56541
+1613165494132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165494146	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165504478	Marionette	INFO	Stopped listening on port 56541
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+2021-02-12 21:31:45.799 plugin-container[51367:1927962] PLClientLogging: unknown permission type 2
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165507351	geckodriver	INFO	Listening on 127.0.0.1:56634
+1613165508378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileVzTYyY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165514590	Marionette	INFO	Listening on port 56645
+1613165514747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165514777	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165520612	Marionette	INFO	Stopped listening on port 56645
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165522709	geckodriver	INFO	Listening on 127.0.0.1:56770
+1613165523734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilegg4c34"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165530065	Marionette	INFO	Listening on port 56781
+1613165530144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165530178	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165535072	Marionette	INFO	Stopped listening on port 56781
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165537659	geckodriver	INFO	Listening on 127.0.0.1:56898
+1613165538688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileCoxZQ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165545494	Marionette	INFO	Listening on port 56909
+1613165545657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165545688	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165557816	Marionette	INFO	Stopped listening on port 56909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165559100	geckodriver	INFO	Listening on 127.0.0.1:57032
+1613165560119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilewcQBKJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165564677	Marionette	INFO	Listening on port 57044
+1613165564759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165564816	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165573181	Marionette	INFO	Stopped listening on port 57044
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165574837	geckodriver	INFO	Listening on 127.0.0.1:57143
+1613165575858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileMGVRX2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165581475	Marionette	INFO	Listening on port 57154
+1613165581604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165581635	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165586203	Marionette	INFO	Stopped listening on port 57154
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165588164	geckodriver	INFO	Listening on 127.0.0.1:57272
+1613165589190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileWvhtVV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165596278	Marionette	INFO	Listening on port 57283
+1613165596442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165596472	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165600946	Marionette	INFO	Stopped listening on port 57283
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165603326	geckodriver	INFO	Listening on 127.0.0.1:57406
+1613165604352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofile9scPW4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165610730	Marionette	INFO	Listening on port 57417
+1613165610858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165610885	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165614510	Marionette	INFO	Stopped listening on port 57417
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165656672	geckodriver	INFO	Listening on 127.0.0.1:57542
+1613165656683	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileEH9cMJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165658739	Marionette	INFO	Listening on port 57551
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165658858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165658870	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165664888	Marionette	INFO	Stopped listening on port 57551
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165666712	geckodriver	INFO	Listening on 127.0.0.1:57639
+1613165667734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilenOWP2F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165672129	Marionette	INFO	Listening on port 57650
+1613165672260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165672277	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165676471	Marionette	INFO	Stopped listening on port 57650
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165677513	geckodriver	INFO	Listening on 127.0.0.1:57753
+1613165678530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilexqcWXe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165682144	Marionette	INFO	Listening on port 57764
+1613165682198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165682214	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165687618	Marionette	INFO	Stopped listening on port 57764
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165688568	geckodriver	INFO	Listening on 127.0.0.1:57863
+1613165689585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileQARstI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165692716	Marionette	INFO	Listening on port 57874
+1613165692825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165692848	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165703772	Marionette	INFO	Stopped listening on port 57874
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165704411	geckodriver	INFO	Listening on 127.0.0.1:57971
+1613165705424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilenSXOK9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165707748	Marionette	INFO	Listening on port 57982
+1613165707829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165707843	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165715638	Marionette	INFO	Stopped listening on port 57982
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165716148	geckodriver	INFO	Listening on 127.0.0.1:58062
+1613165717162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileRZ7RY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165719238	Marionette	INFO	Listening on port 58073
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165719358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165719369	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165721486	Marionette	INFO	Stopped listening on port 58073
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165722163	geckodriver	INFO	Listening on 127.0.0.1:58150
+1613165723176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilep744Fc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165725598	Marionette	INFO	Listening on port 58161
+1613165725696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165725709	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165729808	Marionette	INFO	Stopped listening on port 58161
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165730456	geckodriver	INFO	Listening on 127.0.0.1:58237
+1613165731469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileWgkQPY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165733810	Marionette	INFO	Listening on port 58248
+1613165733870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165733882	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165736149	Marionette	INFO	Stopped listening on port 58248
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165900739	geckodriver	INFO	Listening on 127.0.0.1:58357
+1613165900750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilePwFFvg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165902723	Marionette	INFO	Listening on port 58367
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165902843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165902853	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+1613165934577	Marionette	INFO	Stopped listening on port 58367
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165935228	geckodriver	INFO	Listening on 127.0.0.1:58464
+1613165936237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileUmQawE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165938598	Marionette	INFO	Listening on port 58475
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165938643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165938659	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165944987	Marionette	INFO	Stopped listening on port 58475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165945609	geckodriver	INFO	Listening on 127.0.0.1:58562
+1613165946620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileiUZKnI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165948696	Marionette	INFO	Listening on port 58573
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165948826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165948837	Marionette	ERROR	[19] No reply from Marionette:Register
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165954077	Marionette	INFO	Stopped listening on port 58573
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165954610	geckodriver	INFO	Listening on 127.0.0.1:58661
+1613165955625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilefYKxNM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165957725	Marionette	INFO	Listening on port 58672
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165957810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165957820	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165968509	Marionette	INFO	Stopped listening on port 58672
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165969027	geckodriver	INFO	Listening on 127.0.0.1:58758
+1613165970039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileFl2Lnq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165972020	Marionette	INFO	Listening on port 58769
+1613165972137	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165972148	Marionette	ERROR	[19] No reply from Marionette:Register
+1613165978866	Marionette	INFO	Stopped listening on port 58769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165979381	geckodriver	INFO	Listening on 127.0.0.1:58845
+1613165980392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilekYYkwl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165982366	Marionette	INFO	Listening on port 58856
+1613165982475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165982485	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165987682	Marionette	INFO	Stopped listening on port 58856
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165988301	geckodriver	INFO	Listening on 127.0.0.1:58944
+1613165989313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofilevXQyXC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613165991320	Marionette	INFO	Listening on port 58955
+1613165991375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613165991384	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613165996429	Marionette	INFO	Stopped listening on port 58955
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613165997036	geckodriver	INFO	Listening on 127.0.0.1:59039
+1613165998049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/11/vk4jvv897ts5338pzs0mbzfr0000gn/T/rust_mozprofileWyXG3v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613166000040	Marionette	INFO	Listening on port 59050
+1613166000127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613166000137	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613166007269	Marionette	INFO	Stopped listening on port 59050
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
