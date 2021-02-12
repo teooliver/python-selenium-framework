@@ -8,9 +8,9 @@ def pytest_addoption(parser):
                      help="options: chrome, firefox, safari")
 
 
-@pytest.fixture
-def cmdopt(request):
-    return request.config.getoption("--cmdopt")
+# @pytest.fixture
+# def cmdopt(request):
+#     return request.config.getoption("--cmdopt")
 
 
 @pytest.fixture()
