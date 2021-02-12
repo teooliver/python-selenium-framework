@@ -1,7 +1,7 @@
-from pageObjects.Blog import BlogPage
-from pageObjects.ContactPage import ContactPage
-from pageObjects.HomePage import HomePage
-from pageObjects.Navbar import Navbar
+from pageobjects.Blog import BlogPage
+from pageobjects.ContactPage import ContactPage
+from pageobjects.HomePage import HomePage
+from pageobjects.Navbar import Navbar
 from utilities.BaseClass import BaseClass
 import time
 

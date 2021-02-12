@@ -13,7 +13,7 @@ def cmdopt(request):
     return request.config.getoption("--cmdopt")
 
 
-@pytest.fixture(scope="class")
+@pytest.fixture()
 def setup(request):
     browser_name = request.config.getoption("--browser_name")
     if browser_name == "chrome":
