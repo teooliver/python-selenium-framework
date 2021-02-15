@@ -22,3 +22,52 @@
 2021-02-15 09:41:54,697 : WARNING : test_subscribe_blog : using email: t@t.com
 2021-02-15 09:42:09,355 : WARNING : test_subscribe_blog : using email: test@test.com
 2021-02-15 09:42:09,355 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-15 18:24:47,705 : WARNING : test_subscribe_blog : using email: t@t.com
+2021-02-15 18:24:59,865 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-15 18:24:59,865 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-15 18:25:34,889 : ERROR : test_services_page_contact : bad
+2021-02-15 18:25:34,889 : ERROR : test_services_page_contact : bad
+2021-02-15 18:29:30,839 : ERROR : test_services_page_contact : bad
+2021-02-15 18:29:30,839 : ERROR : test_services_page_contact : bad
+2021-02-15 18:46:31,478 : ERROR : test_services_page_contact : bad
+2021-02-15 18:46:31,478 : ERROR : test_services_page_contact : bad
+2021-02-15 18:47:19,450 : ERROR : test_services_page_contact : bad
+2021-02-15 18:47:19,450 : ERROR : test_services_page_contact : bad
+2021-02-15 18:48:33,395 : ERROR : test_services_page_contact : bad
+2021-02-15 18:48:33,395 : ERROR : test_services_page_contact : bad
+2021-02-15 18:52:13,765 : ERROR : test_services_page_contact : bad
+2021-02-15 18:52:13,765 : ERROR : test_services_page_contact : bad
+2021-02-15 18:53:05,318 : ERROR : test_services_page_contact : bad
+2021-02-15 18:53:05,318 : ERROR : test_services_page_contact : bad
+2021-02-15 18:54:58,001 : ERROR : test_services_page_contact : bad
+2021-02-15 18:54:58,001 : ERROR : test_services_page_contact : bad
+2021-02-15 18:56:03,337 : ERROR : test_services_page_contact : bad
+2021-02-15 18:56:03,337 : ERROR : test_services_page_contact : bad
+2021-02-15 18:57:32,409 : ERROR : test_services_page_contact : bad
+2021-02-15 18:57:32,409 : ERROR : test_services_page_contact : bad
+2021-02-15 18:58:10,439 : ERROR : test_services_page_contact : bad
+2021-02-15 18:58:10,439 : ERROR : test_services_page_contact : bad
+2021-02-15 18:58:56,230 : ERROR : test_services_page_contact : bad
+2021-02-15 18:58:56,230 : ERROR : test_services_page_contact : bad
+2021-02-15 19:00:10,610 : ERROR : test_services_page_contact : bad
+2021-02-15 19:00:10,610 : ERROR : test_services_page_contact : bad
+2021-02-15 19:01:00,717 : ERROR : test_services_page_contact : bad
+2021-02-15 19:01:00,717 : ERROR : test_services_page_contact : bad
+2021-02-15 19:03:50,958 : ERROR : test_services_page_contact : bad
+2021-02-15 19:03:50,958 : ERROR : test_services_page_contact : bad
+2021-02-15 19:04:32,536 : ERROR : test_services_page_contact : bad
+2021-02-15 19:04:32,536 : ERROR : test_services_page_contact : bad
+2021-02-15 19:05:05,330 : ERROR : test_services_page_contact : bad
+2021-02-15 19:05:05,330 : ERROR : test_services_page_contact : bad
+2021-02-15 19:09:48,121 : INFO : test_services_page_contact : Data: good
+2021-02-15 19:10:01,982 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:10:01,982 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:11:27,814 : INFO : test_services_page_contact : Data: good
+2021-02-15 19:11:41,745 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:11:41,745 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:11:57,693 : INFO : test_services_page_contact : Data: good
+2021-02-15 19:12:10,091 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:12:10,091 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:13:01,558 : INFO : test_services_page_contact : Data: good
+2021-02-15 19:13:12,990 : INFO : test_services_page_contact : Data: bad
+2021-02-15 19:13:12,990 : INFO : test_services_page_contact : Data: bad

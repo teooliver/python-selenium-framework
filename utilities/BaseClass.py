@@ -22,13 +22,14 @@ class BaseClass:
         logger.setLevel(logging.DEBUG)
         return logger
 
-    def verify_link_presence(self, text):
-        element = WebDriverWait(self.driver, 10).until(
-            EC.presence_of_element_located(By.LINK_TEXT, text)
-        )
-
     def get_page_title(self):
         return self.driver.title
 
     def get_current_url(self):
         return self.driver.current_url
+
+    def verify_link_presence(self, text):
+        element = WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located(By.LINK_TEXT, text)
+        )
+

@@ -29,7 +29,23 @@ class ServicesPage:
     def fill_contact_form(self):
         pass
 
-    def submit_contact_form(self):
-        print("click click click")
-        return self.driver.find_element(*ServicesPage.submit_contact_form_button).click()
+    def get_first_name_input(self):
+        return self.driver.find_element(*ServicesPage.first_name_input)
 
+    def get_last_name_input(self):
+        return self.driver.find_element(*ServicesPage.last_name_input)
+
+    def get_email_input(self):
+        return self.driver.find_element(*ServicesPage.email_input)
+
+    def get_phone_number_input(self):
+        return self.driver.find_element(*ServicesPage.phone_number_input)
+
+    def get_website_url_input(self):
+        return self.driver.find_element(*ServicesPage.website_url_input)
+
+    def get_message_input(self):
+        return self.driver.find_element(*ServicesPage.message_input)
+
+    def submit_contact_form(self):
+        return self.driver.find_element(*ServicesPage.submit_contact_form_button).click()

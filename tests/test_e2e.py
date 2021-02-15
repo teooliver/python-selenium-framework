@@ -5,6 +5,7 @@ from pageobjects.ContactPage import ContactPage
 from pageobjects.HomePage import HomePage
 from pageobjects.Navbar import Navbar
 from pageobjects.ServicesPage import ServicesPage
+from testdata.ContactFormData import ContactFormData
 from utilities.BaseClass import BaseClass
 from testdata.BlogPageData import BlogPageData
 import time
@@ -82,14 +83,38 @@ class TestOne(BaseClass):
         title = contactpage.get_heading_title().text
         assert "Contact" in title
 
-    def test_services_page_contact(self):
+    def test_services_page_contact(self, get_contact_form_data):
+        log = self.get_logger()
         self.driver.get("https://www.rixxo.com/services/")
-        servicepage = ServicesPage(self.driver)
-        servicepage.scroll_to_contact_form()
-        time.sleep(5)
-        servicepage.submit_contact_form()
-        time.sleep(5)
+        servicespage = ServicesPage(self.driver)
+        servicespage.scroll_to_contact_form()
+        time.sleep(2)
+
+        log.info("Data: " + get_contact_form_data["type"])
+        servicespage.get_first_name_input().send_keys(get_contact_form_data["first_name"])
+        servicespage.get_last_name_input().send_keys(get_contact_form_data["last_name"])
+        servicespage.get_email_input().send_keys(get_contact_form_data["email"])
+        servicespage.get_phone_number_input().send_keys(get_contact_form_data["phone_number"])
+        servicespage.get_website_url_input().send_keys(get_contact_form_data["website_url"])
+        servicespage.get_message_input().send_keys(get_contact_form_data["message"])
+
+        servicespage.submit_contact_form()
+        time.sleep(2)
+
+        if get_contact_form_data["type"] == "good":
+            # assert successs message present
+            pass
+        else:
+            # assert errors messages are present
+            pass
+
+        time.sleep(3)
 
     @pytest.fixture(params=BlogPageData.test_blog_page_data)
     def get_data(self, request):
         return request.param
+
+    @pytest.fixture(params=ContactFormData.test_contact_form_data)
+    def get_contact_form_data(self, request):
+        return request.param
+
