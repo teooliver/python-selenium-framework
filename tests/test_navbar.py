@@ -101,3 +101,4 @@ class TestNavbar(BaseClass):
         time.sleep(3)
         assert self.get_current_url() == "https://www.rixxo.com/contact/"
         assert self.get_page_title() == "Contact Rixxo | An Agency Redefining Audience Engagement"
+

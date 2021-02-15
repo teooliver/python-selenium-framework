@@ -1,8 +1,12 @@
+import pytest
+
 from pageobjects.Blog import BlogPage
 from pageobjects.ContactPage import ContactPage
 from pageobjects.HomePage import HomePage
 from pageobjects.Navbar import Navbar
+from pageobjects.ServicesPage import ServicesPage
 from utilities.BaseClass import BaseClass
+from testdata.BlogPageData import BlogPageData
 import time
 
 
@@ -58,11 +62,14 @@ class TestOne(BaseClass):
     #
     #
 
-    def test_subscribe_blog(self):
+    def test_subscribe_blog(self, get_data):
+        log = self.get_logger()
         self.driver.get("https://www.rixxo.com/blog/")
         blogpage = BlogPage(self.driver)
         assert self.get_current_url() == "https://www.rixxo.com/blog/"
-        blogpage.get_email_input().send_keys("test@test.com")
+        log.warning("using email: " + get_data["email"])
+        blogpage.get_email_input().send_keys(get_data["email"])
+
         time.sleep(2)
         blogpage.click_subscribe_btn().click()
         # implement implicit wait()
@@ -75,5 +82,14 @@ class TestOne(BaseClass):
         title = contactpage.get_heading_title().text
         assert "Contact" in title
 
+    def test_services_page_contact(self):
+        self.driver.get("https://www.rixxo.com/services/")
+        servicepage = ServicesPage(self.driver)
+        servicepage.scroll_to_contact_form()
+        time.sleep(5)
+        servicepage.submit_contact_form()
+        time.sleep(5)
 
-
+    @pytest.fixture(params=BlogPageData.test_blog_page_data)
+    def get_data(self, request):
+        return request.param
