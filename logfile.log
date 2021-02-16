@@ -71,3 +71,56 @@
 2021-02-15 19:13:01,558 : INFO : test_services_page_contact : Data: good
 2021-02-15 19:13:12,990 : INFO : test_services_page_contact : Data: bad
 2021-02-15 19:13:12,990 : INFO : test_services_page_contact : Data: bad
+2021-02-16 10:51:04,107 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 10:51:15,859 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:51:15,859 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:52:06,884 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 10:52:18,868 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:52:18,868 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:53:10,595 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 10:53:22,472 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:53:22,472 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:54:24,480 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 10:54:36,303 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:54:36,303 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:56:58,409 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 10:57:10,045 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 10:57:10,045 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:11:32,530 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:11:44,236 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:11:44,236 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:12:28,411 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:12:41,045 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:12:41,045 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:12:43,612 : INFO : test_services_page_contact_form : True
+2021-02-16 11:12:43,612 : INFO : test_services_page_contact_form : True
+2021-02-16 11:18:55,329 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:19:09,147 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:19:09,147 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:19:20,908 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:19:20,908 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:19:20,908 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:20:51,547 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:21:03,218 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:21:03,218 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:21:14,828 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:21:14,828 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:21:14,828 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:45:22,361 : WARNING : test_subscribe_blog : using email: t@t.com
+2021-02-16 11:45:34,412 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-16 11:45:34,412 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-16 11:45:52,583 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:46:04,213 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:46:04,213 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:46:15,859 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:46:15,859 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:46:15,859 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:49:51,902 : WARNING : test_subscribe_blog : using email: t@t.com
+2021-02-16 11:50:04,221 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-16 11:50:04,221 : WARNING : test_subscribe_blog : using email: test@test.com
+2021-02-16 11:50:22,667 : INFO : test_services_page_contact_form : Data: good
+2021-02-16 11:50:34,359 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:50:34,359 : INFO : test_services_page_contact_form : Data: bad
+2021-02-16 11:50:46,255 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:50:46,255 : INFO : test_services_page_contact_form : Data: empty
+2021-02-16 11:50:46,255 : INFO : test_services_page_contact_form : Data: empty
