@@ -17,6 +17,15 @@ class ServicesPage:
     message_input = (By.ID, "message-d7d5d815-6d59-4668-9b17-7857a77a743e")
     submit_contact_form_button = (By.CSS_SELECTOR, "[data-reactid='.hbspt-forms-0.5.1.0']")
 
+    # error messages to assert against:
+    # email_error_message = "Email must be formatted correctly".
+    # phone_number_size_validation_message = "Please enter a phone number that's at least 7 numbers long".
+    # phone_number_format_validation_message = "Must contain only numbers, +()-. and x".
+    # require_field_error_message = "Please complete this required field."
+    # complete_all_required_fields_error_message = "Please complete all required fields."
+    # change_email_address_error_message = "Please change your email address to continue."
+    # enter_business_email_error_message = /"Please enter your business email address."/i
+
     def get_heading_title(self):
         return self.driver.find_element(*ServicesPage.heading_title)
 
