@@ -1,18 +1,34 @@
 import time
+
+import pytest
+
 from pageobjects.Navbar import Navbar
 from utilities.BaseClass import BaseClass
 from selenium.webdriver.support import expected_conditions as ec
 
 
 class TestNavbar(BaseClass):
-    def test_navigation_tabs(self):
+    def test_navigation_tabs(self, define_window_size):
+        if define_window_size == "desktop":
+            # use default size defined in conftest.py
+            pass
+        if define_window_size == "tablet":
+            self.driver.set_window_size(800, 800)
+        if define_window_size == "mobile":
+            self.driver.set_window_size(375, 667)
 
-        self.driver.set_window_size(800, 800)
         self.driver.get("https://www.rixxo.com")
         navbar = Navbar(self.driver)
 
         # /work
-        navbar.click_work_tab()
+        if define_window_size == "mobile":
+            navbar.click_open_nav_button()
+            assert navbar.mobile_menu_div
+            # click mobile nav_link
+        else:
+            navbar.click_work_tab()
+
+
         time.sleep(3)
         assert self.get_current_url() == "https://www.rixxo.com/work"
         assert self.get_page_title() == "Our Work | Want To Learn More? 0117 2077504"
@@ -105,3 +121,7 @@ class TestNavbar(BaseClass):
         time.sleep(3)
         assert self.get_current_url() == "https://www.rixxo.com/contact/"
         assert self.get_page_title() == "Contact Rixxo | An Agency Redefining Audience Engagement"
+
+    @pytest.fixture(params=["desktop", "tablet", "mobile"])
+    def define_window_size(self, request):
+        return request.param

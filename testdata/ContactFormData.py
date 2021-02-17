@@ -1,4 +1,8 @@
+
+
+# use @dataclass ?
 class ContactFormData:
+
     test_contact_form_data = [
         {
             "type": "good",
