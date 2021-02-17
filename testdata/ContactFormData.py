@@ -1,7 +1,12 @@
 
 
 # use @dataclass ?
+from testdata.TestUser import TestUser
+
+
 class ContactFormData:
+
+    user = TestUser()
 
     test_contact_form_data = [
         {
@@ -30,5 +35,14 @@ class ContactFormData:
             "phone_number": "",
             "website_url": "",
             "message": "",
+        },
+        {
+            "type": "good_data_dont_test_yet",
+            "first_name": user.first_name,
+            "last_name": user.last_name,
+            "email": user.email,
+            "phone_number": user.phone_number,
+            "website_url": user.website,
+            "message": user.message,
         }
     ]
