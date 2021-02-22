@@ -8,6 +8,7 @@ class TestUser:
     text = Text()
 
     username = person.username()
+
     first_name = person.first_name()
     last_name = person.last_name()
     email = person.email()

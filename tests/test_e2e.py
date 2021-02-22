@@ -15,7 +15,6 @@ class EndToEnd(BaseClass):
         homepage = HomePage(self.driver)
         blogpage = BlogPage(self.driver)
 
-
         self.driver.get("https://www.rixxo.com/")
 
         assert homepage.get_page_title() == "Rixxo | B2B ECommerce & Marketing Experts"
@@ -58,8 +57,6 @@ class EndToEnd(BaseClass):
         assert self.driver.current_url == "https://www.rixxo.com/about/"
         # driver.minimize_window()
         self.driver.refresh()
-
-
 
     def test_subscribe_blog(self, get_data):
         log = self.get_logger()

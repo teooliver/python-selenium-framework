@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+# Base Page Class
 
 @pytest.mark.usefixtures("setup")
 class BaseClass:
@@ -27,6 +28,12 @@ class BaseClass:
 
     def get_current_url(self):
         return self.driver.current_url
+
+    # def get_footer(self):
+
+    # def get_header(self):
+
+
 
     def verify_link_presence(self, text):
         element = WebDriverWait(self.driver, 10).until(
