@@ -41,7 +41,7 @@ def setup(request):
             options=chrome_options)
 
     action = ActionChains(driver)
-    driver.implicitly_wait(5)
+    driver.implicitly_wait(10)
     driver.maximize_window()
     request.cls.driver = driver
     request.cls.action = action
