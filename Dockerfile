@@ -16,4 +16,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # command to run on container start
-# CMD [ "python", "./server.py" ] 
+CMD [ "py.test", "--browser_name chrome", "-v" ] 
